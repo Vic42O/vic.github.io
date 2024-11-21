@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2921006" style='border:none;'></iframe>
 
 Welcome to my porfolio website!
 
